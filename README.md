@@ -33,7 +33,7 @@ Common packages include:
 1. Clone the repository:
    ```bash
    git clone https://github.com/akritinagayach/FBI-Time-Series-Forecasting.git
-   cd your-repo-name
+   cd FBI-Time-Series-Forecasting
    ```
 
 2. Launch the notebook:
